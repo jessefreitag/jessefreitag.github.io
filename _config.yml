@@ -20,9 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "Contact Me"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:jfreitag@uchicago.edu"}
-  - {title: Github, icon: github, url: "https://github.com/jessefreitag"}
-
+  - {title: Mail, url: "mailto:jfreitag@uchicago.edu"}
+  - {title: Github, url: "https://github.com/jessefreitag"}
+  - {title: LinkedIn, url: "https://www.linkedin.com/in/jesse-freitag-bb77b5199/"}
+  - {title: UChicago, url: "https://finmath.uchicago.edu/"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
