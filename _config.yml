@@ -15,10 +15,11 @@ minimal: true             # use a dark header
 
 # Menu
 
-navigation:                # accepts {file, title, url, icon, sidebaricon}
+navigation:
   - {file: "index.html", title: "Home"}
-  - {url: "https://docs.google.com/gview?url=https://jessefreitag.github.io/resume_git.pdf&embedded=true", title: "Resume"}
+  - {url: "https://docs.google.com/gview?url=https://jessefreitag.github.io/resume_git.pdf&embedded=true", title: "Resume", target: "_blank"}
   - {file: "contact_me.md", title: "Contact Me"}
+
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, url: "mailto:jfreitag@uchicago.edu"}
