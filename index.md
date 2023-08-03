@@ -3,7 +3,9 @@ layout: page
 title: "Home"
 ---
 
-![Jesse Freitag](photo.jpg){: .profile-picture }
+<div style="float: left; margin-right: 20px; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
+  <img src="photo.jpg" alt="Jesse Freitag" width="200" height="200" class="profile-picture">
+</div>
 
 Hi! I'm Jesse. I am a current graduate student in Financial Mathematics at the University of Chicago, where I am preparing for a career in quantitative finance. Some of my coursework includes Probability & Stochastic Processes, Portolio Management and Risk Management, Option Theory, and Python.
 
