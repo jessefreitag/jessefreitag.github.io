@@ -3,7 +3,12 @@ layout: page
 title: "Home"
 ---
 
-![Jesse Freitag](ireland.jpg){: .profile-picture }
+![Jesse Freitag](ireland.jpg){: .profile-picture{
+  width: 200px; /* Adjust the width as needed */
+  float: left;
+  margin-right: 20px;
+
+} }
 
 Hi! I'm Jesse. I am a current graduate student in Financial Mathematics at the University of Chicago, where I am preparing for a career in quantitative finance. Some of my coursework includes Probability & Stochastic Processes, Portolio Management and Risk Management, Option Theory, and Python.
 
