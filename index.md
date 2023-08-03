@@ -3,7 +3,7 @@ layout: page
 title: "Home"
 ---
 
-![Jesse Freitag](ireland.jpg){: .profile-picture{
+![Jesse Freitag](photo.jpg){: .profile-picture{
   width: 200px; /* Adjust the width as needed */
   float: left;
   margin-right: 20px;
