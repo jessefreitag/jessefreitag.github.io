@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 ![Jesse Freitag](photo.jpg){: .profile-picture{
-  width: 200px; /* Adjust the width as needed */
+  width: 50px; /* Adjust the width as needed */
   float: left;
   margin-right: 20px;
 
