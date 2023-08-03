@@ -1,11 +1,11 @@
 ## Projects
-------
 
 [Pseudo-VIX Index]()    
 
 
 
 [Markowitz Portfolio Optimization]() 
+
 
 
 
