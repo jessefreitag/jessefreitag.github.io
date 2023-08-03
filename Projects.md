@@ -1,4 +1,4 @@
-## PROJECTS
+
 ------
 
 [Pseudo-VIX Index]()    
