@@ -2,6 +2,9 @@
 layout: page
 title: "Home"
 ---
+
+![Jesse Freitag](ireland.jpg){: .profile-picture }
+
 Hi! I'm Jesse. I am a current graduate student in Financial Mathematics at the University of Chicago, where I am preparing for a career in quantitative finance. Some of my coursework includes Probability & Stochastic Processes, Portolio Management and Risk Management, Option Theory, and Python.
 
 From graduating from Stony Brook University with an Applied Mathematics & Statistics, B.S. and Economics, B.A. to now being in graduate school, my coursework is multidisciplinary; combining mathematics, statistics, computer science, and financial theory to help me analyze and solve complex problems.
