@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 <div style="float: left; margin-right: 20px; border-radius: 50%; overflow: hidden; width: 200px; height: 200px;">
-  <img src="pro_pic.jpg" alt="Jesse Freitag" width="200" height="200" class="profile-picture">
+  <img src="skygarden.jpg" alt="Jesse Freitag" width="200" height="200" class="profile-picture">
 </div>
 
 Hi! I'm Jesse. I am a current graduate student in Financial Mathematics at the University of Chicago. Some of my coursework includes Monte Carlo Simulation, Stochastic Processes, Time Series Analysis, Numerical Methods, and Option Theory.
