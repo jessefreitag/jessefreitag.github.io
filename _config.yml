@@ -17,9 +17,10 @@ minimal: true             # use a dark header
 
 navigation:
   - {file: "index.html", title: "Home"}
-  - {url: "https://docs.google.com/gview?embedded=true&url=https://raw.githubusercontent.com/jessefreitag/jessefreitag.github.io/master/Jesse%20Freitag%20Resume.pdf", title: "Resume", target: "_blank"}
+  - {url: "https://jessefreitag.github.io/Jesse%20Freitag%20Resume.pdf", title: "Resume", target: "_blank"}
   - {file: "Projects.md", title: "Projects"}
   - {file: "contact_me.md", title: "Contact Me"}
+
 
 
 
