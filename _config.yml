@@ -17,9 +17,11 @@ minimal: true             # use a dark header
 
 navigation:
   - {file: "index.html", title: "Home"}
-  - {url: "https://docs.google.com/gview?url=https://github.com/jessefreitag/jessefreitag.github.io/blob/master/Jesse%20Freitag%20Resume.pdf", title: "Resume", target: "_blank"}
+  - {url: "https://docs.google.com/gview?embedded=true&url=https://raw.githubusercontent.com/jessefreitag/jessefreitag.github.io/master/Jesse%20Freitag%20Resume.pdf", title: "Resume", target: "_blank"}
   - {file: "Projects.md", title: "Projects"}
   - {file: "contact_me.md", title: "Contact Me"}
+
+
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
