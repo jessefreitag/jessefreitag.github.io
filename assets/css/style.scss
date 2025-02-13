@@ -10,13 +10,11 @@ body.loaded {
 }
 .profile-pic {
   display: block;
-  max-width: 150px; /* Adjust this size as needed */
+  max-width: 150px; /* Adjust size */
   height: auto;
   border-radius: 50%; /* Makes it circular */
-  margin: 20px auto; /* Centers the image */
-  object-fit: cover; /* Ensures it fills without distortion */
+  margin: 20px auto;
 }
-
 
 /* Background Styling */
 #vanta-bg {
