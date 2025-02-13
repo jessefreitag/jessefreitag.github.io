@@ -1,38 +1,44 @@
 title: "Jesse Freitag"
 author: "Jesse"
-description: ""
+description: "Exploring finance, trading, and technology."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
 # Layout
+show_excerpts: true       # show article excerpts on the home page
+show_frame: false         # removes the gray frame for a cleaner look
+show_sidebar: true        # show sidebar (previously false, now true)
+minimal: false            # use a standard header instead of a dark header
 
-show_excerpts: true        # show article excerpts on the home page
-show_frame: true           # adds a gray frame to the site
-show_sidebar: false        # show a sidebar instead of the usual header
-minimal: true             # use a dark header
-
-# Menu
-
+# Menu (Navbar)
 navigation:
   - {file: "index.html", title: "Home"}
+  - {file: "about.md", title: "About"}
   - {url: "https://jessefreitag.github.io/Jesse%20Freitag%20Resume.pdf", title: "Resume", target: "_blank"}
   - {file: "Projects.md", title: "Projects"}
   - {file: "contact_me.md", title: "Contact Me"}
+  - {file: "blog.md", title: "Blog"}
 
-
-
-
-
-external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+# External Links (Footer)
+external:                  
   - {title: Mail, url: "mailto:jfreitag@uchicago.edu"}
   - {title: Github, url: "https://github.com/jessefreitag"}
   - {title: LinkedIn, url: "https://www.linkedin.com/in/jesse-freitag-bb77b5199/"}
   - {title: UChicago, url: "https://finmath.uchicago.edu/"}
-comments:
+
+# Comments (Optional - Uncomment if needed)
+#comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+# Jekyll Plugins
 plugins:
- - jekyll-feed
+  - jekyll-feed
+  - jekyll-paginate # Enables pagination if not already included
+  - jekyll-seo-tag  # Helps with search engine optimization
+
+# Pagination (if your blog has multiple pages)
+paginate: 5  # Number of posts per page
+paginate_path: "/page:num/"
